@@ -11,7 +11,7 @@ Este repositório faz parte da minha jornada de aprendizado com o objetivo de me
 | Módulo   | Conteúdo                       | Exercícios                 |
 |----------|--------------------------------|----------------------------|
 | Módulo 2 | Condições em Python (if..elif) | aula12des36 ao aula12des45 |
-| Módulo 3 | Repetições em Python (for)     |                            |
+| Módulo 3 | Repetições em Python (for)     | aula13 ao aula13des56      |
 | Módulo 4 | Repetições em Python (while)   |                            |
 ---
 
@@ -62,7 +62,7 @@ Estou seguindo uma trilha de 18 meses que passa por fundamentos de Python, backe
 - [x] Módulo 6 - Cores no terminal - Mundo 1
 -----------------------------------------------------------------------
 - [x] Módulo 2 - Condições em Python (if..elif) - Mundo 2
-- [ ] Módulo 3 - Repetições em Python (for) - Mundo 2
+- [x] Módulo 3 - Repetições em Python (for) - Mundo 2
 - [ ] Módulo 4 - Repetições em Python (while) - Mundo 2
 ---
 
